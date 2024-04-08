@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "tequitoa.dev@gmail.com",
+                "Name": "TequiToa"
+            }
+        ],
+        "Category": "",
+        "Description": "GameCube Animation Splashscreen for KDE 6",
+        "Id": "GameCube-Loading-Plasma6",
+        "License": "MIT",
+        "Name": "GameCube Animation",
+        "Website": "https://github.com/TequiToa/GamecubePlasma6SplashScreen"
+    },
+    "Keywords": "nintendo;gamecube;retro;lock;hibernate",
+    "X-Plasma-APIVersion": "2"
+}
+
